@@ -1,0 +1,15 @@
+{
+  "name": "rgui-css-icon",
+  "description": "Regular UI - CSS Icons",
+  "version": "0.2.0-alpha",
+  "author": "Rainfore <rainforest92@126.com>",
+  "repository": "regular-ui/css-icon",
+  "homepage": "http://regular-ui.github.io",
+  "bugs": {"url": "http://github.com/regular-ui/css-icon/issues"},
+  "license": "MIT",
+  "keywords": ["regular", "ui", "rgui", "css", "icon"],
+  "tags": ["regular", "ui", "rgui", "css", "icon"],
+  "dependencies": {
+    "font-awesome": "^4.6.3"
+  }
+}

@@ -1,0 +1,34 @@
+@import './font-awesome.css';
+
+// Component:       `u-icon`
+// ========================================================================
+
+.u-icon {
+    line-height: inherit;
+    // - 默认为正方形
+    width: 1em;
+    text-align: center;
+    // - 在中文环境下垂直居中
+    vertical-align: middle;
+    margin-bottom: 2px;
+}
+
+// Extends:
+// ========================================================================
+
+.u-icon-error-circle:before {
+    content: "\f057";
+}
+
+.u-icon-success-circle:before {
+    content: "\f058";
+}
+
+.u-icon-warning-circle:before {
+    content: "\f06a";
+}
+
+.u-icon-quote:before {
+    content: "\f10d";
+}
+
