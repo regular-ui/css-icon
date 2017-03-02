@@ -1,2 +1,2 @@
-@import './icon/index.mcss';
-@import './iconStack/index.mcss';
+@import './src/icon/index.mcss';
+@import './src/iconStack/index.mcss';
